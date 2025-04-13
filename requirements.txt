@@ -1,0 +1,19 @@
+# Core scientific stack
+scanpy
+anndata
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+
+# HuggingFace and transformers stack
+transformers==4.28.0
+datasets
+accelerate>=0.17.1
+
+# Geneformer model
+geneformer
+# Optional utilities
+scikit-learn
+tqdm
