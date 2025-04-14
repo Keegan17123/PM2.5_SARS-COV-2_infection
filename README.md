@@ -22,14 +22,3 @@ A complete pipeline for classifying single-cell RNA-seq data in PM2.5 exposure s
 For an overview of this study, see the figure below.
 
 ![Fig6](assets/Figure6_schematic_mechanism_PM25_COVID.png)
-
-
-
-
-
-
-
-
-
-
-
