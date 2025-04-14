@@ -16,7 +16,7 @@ A complete pipeline for classifying single-cell RNA-seq data in PM2.5 exposure s
 - **Visualization**: pyGenomeTracks (https://github.com/deeptools/pyGenomeTracks)
 ### 3.Single-cell RNA-seq analysis
 - **Data sources**: GEO(https://www.ncbi.nlm.nih.gov/geo/)
-- **Visualization**: scanpy ([https://github.com/deeptools/pyGenomeTracks](https://github.com/scverse/scanpy))
+- **Visualization**: scanpy (https://github.com/scverse/scanpy)
 
 
 For an overview of this study, see the figure below.
