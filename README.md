@@ -7,13 +7,13 @@ A complete pipeline for classifying single-cell RNA-seq data in PM2.5 exposure s
 
 - **Input**: Annotated `.h5ad` or `.loom` files from scRNA-seq experiments.
 - **Output**: Trained transformer model and clean tokenized datasets.
-- **Models**: Deposited at Hugging Face ([https://huggingface.co/keegan111/geneformer_PM2.5_classification])
-- **Datasets**: Deposited at Hugging Face ([https://huggingface.co/datasets/keegan111/geneformer_PM2.5_classification_tokenized])
+- **Models**: Deposited at Hugging Face (https://huggingface.co/keegan111/geneformer_PM2.5_classification)
+- **Datasets**: Deposited at Hugging Face (https://huggingface.co/datasets/keegan111/geneformer_PM2.5_classification_tokenized)
   
 ## Integrated functional genomics analyses using public datasets
 ### 2.Tracks analysis
-- **Data sources**: ENCODE([https://www.encodeproject.org/]), etc. 
-- **Visualization**: pyGenomeTracks ([https://github.com/deeptools/pyGenomeTracks])
+- **Data sources**: ENCODE(https://www.encodeproject.org/), etc. 
+- **Visualization**: pyGenomeTracks (https://github.com/deeptools/pyGenomeTracks)
 ### 3.Single-cell RNA-seq analysis
 - **Data sources**: GEO(https://www.ncbi.nlm.nih.gov/geo/)
 - **Visualization**: scanpy ([https://github.com/deeptools/pyGenomeTracks](https://github.com/scverse/scanpy))
